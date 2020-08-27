@@ -1,0 +1,2 @@
+# quickstart-test
+hugo test
